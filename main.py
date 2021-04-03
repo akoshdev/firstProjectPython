@@ -17,20 +17,4 @@
 # else:
 #     print("Такой вариант ещё не разработан")
 
-<<<<<<< HEAD
-print ('hdhdhdhd')
-=======
-#<<<<<<< HEAD
-#print ('Hello world!')
-#print ('Hello world!')
-#=======
-#print ('Assalom')
-#>>>>>>> 7b3445534d13995117291683f909ad879b6fd626
-
-print ('hello')
->>>>>>> 6a6aafc9aa60ff2038271f1c3601ac42079be0cd
-
-
-
-
 print ('shashsahsa')
