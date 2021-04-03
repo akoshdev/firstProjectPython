@@ -17,4 +17,4 @@
 # else:
 #     print("Такой вариант ещё не разработан")
 
-print ('Assalom')
+print ('hdhdhdhd')
