@@ -18,3 +18,4 @@
 #     print("Такой вариант ещё не разработан")
 
 print ('shashsahsa')
+print ('aaaaaaa')
