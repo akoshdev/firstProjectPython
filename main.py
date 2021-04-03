@@ -23,3 +23,5 @@ print ('aaaaaaa')
 print ('Vs studio')
 
 print ('Vs type')
+
+print ('Vs school')
