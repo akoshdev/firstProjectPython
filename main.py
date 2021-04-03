@@ -17,5 +17,11 @@
 # else:
 #     print("Такой вариант ещё не разработан")
 
-print ('Hello world!')
-print ('Hello world!')
+#<<<<<<< HEAD
+#print ('Hello world!')
+#print ('Hello world!')
+#=======
+#print ('Assalom')
+#>>>>>>> 7b3445534d13995117291683f909ad879b6fd626
+
+print ('hello')
