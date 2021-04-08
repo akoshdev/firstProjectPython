@@ -4,7 +4,10 @@ number = random.randint(1, 100)
 print(number)
 user_number = None
 count = 0
-max_count = 3
+levels = {1: 10, 2: 5, 3: 3}
+level = int(input('Viberite uroven slojnosti: '))
+# print(level)
+max_count = levels[level]
 
 while number != user_number:
     count += 1
