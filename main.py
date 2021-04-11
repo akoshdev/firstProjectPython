@@ -64,21 +64,37 @@
 # print(result)
 
 
-players = {
-    'name': 'Akbar',
-    'age': 23,
-    'has_car': True
+# players = {
+#     'name': 'Akbar',
+#     'age': 23,
+#     'has_car': True
+# }
+#
+# print(players['name','age'])
+
+
+
+
+player_name = input('Vedite imya igroka: ')
+
+player = {
+    'name': player_name,
+    'health': 100,
+    'damage': 50
 }
 
-print(players['name','age'])
+enemy_name = input('Vedite vraga: ')
+enemy = {
+    'name': enemy_name,
+    'health': 51,
+    'damage': 30
+}
 
+def attack(unit,target):
+    target['health'] -= unit['damage']
 
-
-
-
-
-
-
+attack(player,enemy)
+print(enemy)
 
 
 
